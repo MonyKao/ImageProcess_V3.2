@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image_Process.V3", "Image_Process.V3\Image_Process.V3.csproj", "{A7877F43-C1F9-464C-977A-A6CFB35D30DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Debug|x64.ActiveCfg = Debug|x64
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Debug|x64.Build.0 = Debug|x64
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Release|x64.ActiveCfg = Release|x64
+		{A7877F43-C1F9-464C-977A-A6CFB35D30DA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DF5E25-3CA8-4FD2-B0C5-5AC3058068CE}
+	EndGlobalSection
+EndGlobal

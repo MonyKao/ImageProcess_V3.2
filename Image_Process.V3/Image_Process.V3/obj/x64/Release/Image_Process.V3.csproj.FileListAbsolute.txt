@@ -1,0 +1,10 @@
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.csprojAssemblyReference.cache
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Form_DataGridView.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Form_Fourier.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Form_Histogram.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Form_Show.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Form_Test.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Main_Form.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.Properties.Resources.resources
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.csproj.GenerateResource.cache
+C:\Program Test\C#\Image_Process.V3\Image_Process.V3\obj\x64\Release\Image_Process.V3.csproj.CoreCompileInputs.cache
